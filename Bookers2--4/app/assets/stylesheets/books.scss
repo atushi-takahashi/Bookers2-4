@@ -1,0 +1,17 @@
+// Place all the styles related to the Books controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+li {
+  list-style: none;
+}
+
+.comment-avatar {
+    display: flex;
+    justify-content: unset;
+    align-items: center;
+}
+
+
+.comment-entry {
+    margin: 0 20px;
+}
